@@ -1,0 +1,6 @@
+setup.py
+optativa_pycicd.egg-info/PKG-INFO
+optativa_pycicd.egg-info/SOURCES.txt
+optativa_pycicd.egg-info/dependency_links.txt
+optativa_pycicd.egg-info/requires.txt
+optativa_pycicd.egg-info/top_level.txt

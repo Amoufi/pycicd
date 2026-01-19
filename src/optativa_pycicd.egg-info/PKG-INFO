@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: optativa_pycicd
+Version: 1.0.0
+Summary: Descripción de tu proyecto
+Author: Boussoufi Amin
+Author-email: boussoufiamin@seup.net
+Requires-Dist: pytest
+Requires-Dist: flake8
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

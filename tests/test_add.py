@@ -1,3 +1,4 @@
+from curses import panel
 from src.main import add
 
 
